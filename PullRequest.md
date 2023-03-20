@@ -3,3 +3,5 @@ Kirk Finkbeiner link: https://github.com/grantkelsay/Hambacher_IceBreaker/pull/4
 William McWhorter link: https://github.com/grantkelsay/Hambacher_IceBreaker/pull/6
 
 Bichen Pang link: https://github.com/mmfay/cochemStoryTime/pull/1
+
+Alan Morales link: https://github.com/jbaranie/herrenchiemsee_icebreaker/pull/12
